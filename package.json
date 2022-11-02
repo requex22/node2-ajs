@@ -1,0 +1,23 @@
+{
+  "name": "nodetest-ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/requex22/nodetest-ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/requex22/nodetest-ajs/issues"
+  },
+  "homepage": "https://github.com/requex22/nodetest-ajs#readme",
+  "dependencies": {
+    "@requex22/ajs": "^1.0.0"
+  }
+}
